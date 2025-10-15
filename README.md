@@ -16,6 +16,8 @@ The process of understanding who customers are typically focused on psychographi
 -Segmenting customers based on what they do
 You can also segment customers based on how much they spend (share of wallet), how often, and what products (this allows you to see how much you can increase spend). This is more focused on behaviours. Such as: Basket Size, Share of Wallet, Tenure (how long they stay with you), Long-term Loyalty (a combination of share of wallet and tenure)
 
+## Description of Customer Segmentation
+<img src = "Segmentation-Description.png">
 
 ## Segmenting SuperStore Dataset
 
