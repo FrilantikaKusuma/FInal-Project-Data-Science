@@ -1,5 +1,30 @@
-# FInal-Project-Data-Science
+# Customer Segmentation Dashboard
 This Project contents the Analysis of Telco-Churn Customer
 
 <img src = "analysis-logo.jpg">
 
+## What is Customer Segmentation?
+
+Customer segmentation is the process by which you divide your customers up based on common characteristics – such as demographics or behaviours, so your marketing team or sales team can reach out to those customers more effectively.
+
+
+## Types of customer segmentation
+
+- Segmenting customers based on who they are
+The process of understanding who customers are typically focused on psychographics, demographics and, in the case of B2B, firmographics. This will include factors such as: Age, Geography, Urbanisation, Income, Relationship Status, Family, Job Type
+
+-Segmenting customers based on what they do
+You can also segment customers based on how much they spend (share of wallet), how often, and what products (this allows you to see how much you can increase spend). This is more focused on behaviours. Such as: Basket Size, Share of Wallet, Tenure (how long they stay with you), Long-term Loyalty (a combination of share of wallet and tenure)
+
+
+## Segmenting SuperStore Dataset
+
+In this report, I will share the summarize of Customer Segmentation from Superstore Dataset :
+RFM Methods : 
+- Last Transaction Date: Identify the last transaction date for each customer.
+- R Value (Recency): Measure the time elapsed from the last transaction until today.
+- F Value (Frequency): Calculate the number of unique transactions for each customer.
+- M Value (Monetary): Calculate the total transaction value for each customer.
+
+
+<img src = "Dashborad-Customer-Segmentation.png">
