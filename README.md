@@ -25,3 +25,6 @@ RFM Methods :
 - R Value (Recency): Measure the time elapsed from the last transaction until today.
 - F Value (Frequency): Calculate the number of unique transactions for each customer.
 - M Value (Monetary): Calculate the total transaction value for each customer.
+
+
+<img src = "Dashborad-Customer-Segmentation.png">
