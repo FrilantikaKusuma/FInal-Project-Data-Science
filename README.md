@@ -30,3 +30,5 @@ RFM Methods :
 
 
 <img src = "Dashborad-Customer-Segmentation.png">
+
+<txt src = "Result.txt">
